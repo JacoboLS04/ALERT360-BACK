@@ -1,0 +1,37 @@
+[
+  {
+    "id": "comment1",
+    "reportId": "report123",
+    "userId": 456,
+    "content": "Este es el primer comentario de prueba",
+    "timestamp": "2023-11-15T10:30:00"
+  },
+  {
+    "id": "comment2",
+    "reportId": "report123",
+    "userId": 789,
+    "content": "Un segundo comentario para la misma publicación",
+    "timestamp": "2023-11-15T11:45:00"
+  },
+  {
+    "id": "comment3",
+    "reportId": "report456",
+    "userId": 456,
+    "content": "Comentario en otra publicación",
+    "timestamp": "2023-11-16T09:20:00"
+  },
+  {
+    "id": "comment4",
+    "reportId": "report789",
+    "userId": 101,
+    "content": "Comentario con caracteres especiales: !@#$%^&*()",
+    "timestamp": "2023-11-17T16:15:00"
+  },
+  {
+    "id": "comment5",
+    "reportId": "report123",
+    "userId": 202,
+    "content": "Un comentario más extenso que habla sobre la situación reportada y ofrece más información al respecto.",
+    "timestamp": "2023-11-18T08:45:00"
+  }
+]

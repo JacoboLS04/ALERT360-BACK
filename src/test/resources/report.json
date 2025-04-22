@@ -1,0 +1,92 @@
+[
+  {
+    "id": 10021,
+    "title": "Reporte prueba",
+    "categories": [
+      {
+        "id": "102",
+        "name": "Robo",
+        "description": "Categoria para robos"
+      },
+      {
+        "id": "103",
+        "name": "Mascota",
+        "description": "Categoria para mascotas"
+      }
+    ],
+    "description": "Incidente de robo de una mascota",
+    "location": "Cra 10 13-32, La Tebaida, Quindío, Colombia",
+    "images": ["url1", "url2"],
+    "userId": 8,
+    "email": "johanc.garciag@uqvirtual.edu.co",
+    "createdByEmail": "johanc.garciag@uqvirtual.edu.co"
+  },
+  {
+    "id": 10022,
+    "title": "Accidente de tránsito",
+    "categories": [
+      {
+        "id": "104",
+        "name": "Accidente",
+        "description": "Categoria para accidentes de tránsito"
+      }
+    ],
+    "description": "Colisión entre dos vehículos en la vía principal",
+    "location": "Av Bolívar #15-20, Armenia, Quindío, Colombia",
+    "images": ["url3", "url4"],
+    "userId": 12,
+    "email": "maria.perez@uqvirtual.edu.co",
+    "createdByEmail": "maria.perez@uqvirtual.edu.co"
+  },
+  {
+    "id": 10023,
+    "title": "Pérdida de documento",
+    "categories": [
+      {
+        "id": "105",
+        "name": "Pérdida",
+        "description": "Categoria para objetos perdidos"
+      }
+    ],
+    "description": "Extravié mi cédula en el parque central",
+    "location": "Parque Sucre, Calarcá, Quindío, Colombia",
+    "images": ["url5"],
+    "userId": 15,
+    "email": "andres.perez@uqvirtual.edu.co",
+    "createdByEmail": "andres.perez@uqvirtual.edu.co"
+  },
+  {
+    "id": 10024,
+    "title": "Fuga de agua",
+    "categories": [
+      {
+        "id": "106",
+        "name": "Servicios Públicos",
+        "description": "Categoria para problemas de servicios públicos"
+      }
+    ],
+    "description": "Fuga de agua en la calle principal",
+    "location": "Calle 50 #25-30, Manizales, Caldas, Colombia",
+    "images": ["url6", "url7"],
+    "userId": 20,
+    "email": "luisa.quintero@uqvirtual.edu.co",
+    "createdByEmail": "luisa.quintero@uqvirtual.edu.co"
+  },
+  {
+    "id": 10025,
+    "title": "Denuncia de ruido",
+    "categories": [
+      {
+        "id": "107",
+        "name": "Ruido",
+        "description": "Categoria para denuncias de ruido"
+      }
+    ],
+    "description": "Ruido excesivo en horas de la noche",
+    "location": "Carrera 7 #45-67, Bogotá, Cundinamarca, Colombia",
+    "images": ["url8", "url9"],
+    "userId": 25,
+    "email": "camilo.torres@uqvirtual.edu.co",
+    "createdByEmail": "camilo.torres@uqvirtual.edu.co"
+  }
+]

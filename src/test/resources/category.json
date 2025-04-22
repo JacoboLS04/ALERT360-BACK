@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Robo",
+    "description": "Categoria para robos"
+  },
+  {
+    "name": "Mascota",
+    "description": "Categoria para mascotas perdidas"
+  },
+  {
+    "name": "Accidente",
+    "description": "Categoria para accidentes de tránsito"
+  },
+  {
+    "name": "Servicios Públicos",
+    "description": "Categoria para problemas relacionados con servicios públicos"
+  },
+  {
+    "name": "Ruido",
+    "description": "Categoria para denuncias de ruido excesivo"
+  }
+]
